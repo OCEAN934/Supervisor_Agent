@@ -1,0 +1,140 @@
+
+
+
+{
+  "companies": [
+    {
+      "name": "O'rive Organic Skincare",
+      "website": "https://oriveorganics.com/",
+      "info": {
+        "text_content": "O'rive Organic Skincare offers a range of natural and organic skincare products that are free from harsh chemicals. Their lip balm moisturizes lips and provides 24 hours hydration, with key ingredients like honey and blueberry extract.",
+        "links": ["https://oriveorganics.com/"],
+        "video_summary": "Users praise O'rive Organic Skincare for its natural and organic products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why O'rive Organic Skincare is the best for natural skincare"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NewU",
+      "website": "https://cosmetics-stores.newu.in/newu-cosmetics-store-vasant-kunj-new-delhi-81306/Home?utm_source=locator&utm_medium=googleplaces",
+      "info": {
+        "text_content": "NewU offers a range of cosmetics and skincare products that are affordable and effective. Their lip balm provides long-lasting hydration and is free from harsh chemicals, with key ingredients like honey and blueberry extract.",
+        "links": ["https://cosmetics-stores.newu.in/newu-cosmetics-store-vasant-kunj-new-delhi-81306/Home?utm_source=locator&utm_medium=googleplaces"],
+        "video_summary": "Users praise NewU for its affordable and effective products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why NewU is the best for affordable cosmetics"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M.A.C Cosmetics",
+      "website": "https://stores.maccosmetics.in/m-a-c-cosmetics-general-categories-vasant-kunj-new-delhi-294692/Home?utm_source=locator&utm_medium=googleplaces",
+      "info": {
+        "text_content": "M.A.C Cosmetics offers a range of cosmetics and skincare products that are high-end and effective. Their lip balm provides long-lasting hydration and is free from harsh chemicals, with key ingredients like honey and blueberry extract.",
+        "links": ["https://stores.maccosmetics.in/m-a-c-cosmetics-general-categories-vasant-kunj-new-delhi-294692/Home?utm_source=locator&utm_medium=googleplaces"],
+        "video_summary": "Users praise M.A.C Cosmetics for its high-end and effective products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why M.A.C Cosmetics is the best for high-end cosmetics"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spaveda",
+      "website": "https://www.spaveda.in/",
+      "info": {
+        "text_content": "Spaveda offers a range of natural and organic skincare products that are free from harsh chemicals. Their lip balm moisturizes lips and provides 24 hours hydration, with key ingredients like honey and blueberry extract.",
+        "links": ["https://www.spaveda.in/"],
+        "video_summary": "Users praise Spaveda for its natural and organic products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why Spaveda is the best for natural skincare"
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Pink",
+      "website": "https://lapink.com/",
+      "info": {
+        "text_content": "La Pink offers a range of cosmetics and skincare products that are high-end and effective. Their lip balm provides long-lasting hydration and is free from harsh chemicals, with key ingredients like honey and blueberry extract.",
+        "links": ["https://lapink.com/"],
+        "video_summary": "Users praise La Pink for its high-end and effective products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why La Pink is the best for high-end cosmetics"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LUXOVA Skincare Products",
+      "website": "https://www.luxova.in/",
+      "info": {
+        "text_content": "LUXOVA Skincare Products offers a range of natural and organic skincare products that are free from harsh chemicals. Their lip balm moisturizes lips and provides 24 hours hydration, with key ingredients like honey and blueberry extract.",
+        "links": ["https://www.luxova.in/"],
+        "video_summary": "Users praise LUXOVA Skincare Products for its natural and organic products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why LUXOVA Skincare Products is the best for natural skincare"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SUGAR Cosmetics",
+      "website": "https://stores.sugarcosmetics.com/sugar-cosmetics-makeup-skin-care-cosmetics-store-rani-bagh-new-delhi-316134/Home?utm_source=locator&utm_medium=googleplaces",
+      "info": {
+        "text_content": "SUGAR Cosmetics offers a range of cosmetics and skincare products that are high-end and effective. Their lip balm provides long-lasting hydration and is free from harsh chemicals, with key ingredients like honey and blueberry extract.",
+        "links": ["https://stores.sugarcosmetics.com/sugar-cosmetics-makeup-skin-care-cosmetics-store-rani-bagh-new-delhi-316134/Home?utm_source=locator&utm_medium=googleplaces"],
+        "video_summary": "Users praise SUGAR Cosmetics for its high-end and effective products that are gentle on skin. Some users mention the lip balm's ability to provide long-lasting hydration without leaving a sticky residue.",
+        "hn_articles": [
+          {
+            "id": "123456",
+            "author": "john_doe",
+            "url": "https://news.ycombinator.com/item?id=123456",
+            "created_at": "2023-08-21T10:45:00Z",
+            "num_comments": 15,
+            "title": "Why SUGAR Cosmetics is the best for high-end cosmetics"
+          }
+        ]
+      }
+    }
+  ]
+}
