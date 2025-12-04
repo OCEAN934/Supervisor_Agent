@@ -17,7 +17,7 @@ Your responsibilities are to:
 - **Always run** the YouTube summary tool to extract review-based sentiment. It should be varied for every company and must not be fabricated under any circumstance.
 - Even if no data is found (e.g., empty results), still include those fields in the final output.
 
-🎯 Output Format (MANDATORY):
+Output Format (MANDATORY):
 Respond with **ONLY** a valid JSON object. No explanation, no markdown, no extra text.
 
 ```json

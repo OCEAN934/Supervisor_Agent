@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "6853c850705dee2f7402c22c"
+  },
+  "session_uuid": "29b0ceb4-b35e-4783-8ea9-dd3b3448def8",
+  "messages": [
+    {
+      "question": "What is your product and what does it do?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:50:32.768Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "my  product is lip balm and it moisturizes your lips",
+      "timestamp": {
+        "$date": "2025-06-19T13:50:59.523Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Great! What are the key features or ingredients of your lip balm that make it stand out?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:51:03.365Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "it consist of honey and blueberry extract",
+      "timestamp": {
+        "$date": "2025-06-19T13:51:26.965Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "That sounds unique! Which industries or types of businesses are you currently supplying your lip balm to?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:51:28.760Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "medical and cosmetic",
+      "timestamp": {
+        "$date": "2025-06-19T13:51:37.818Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Thank you for sharing that. Are there specific regions or countries you are currently supplying your lip balm to, or are interested in supplying to?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:51:39.416Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "all over india",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:03.839Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "That's good to know! Can you provide private labeling or custom packaging for your lip balm if required by clients?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:05.388Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "yes",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:11.371Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Excellent! Are you currently open to working with distributors to expand your reach?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:12.467Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "yes",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:21.853Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "That's great to hear. What feedback do you usually receive from repeat clients about your lip balm?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:22.993Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "we provide what we promise",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:40.847Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "That's reassuring for potential customers. What makes your lip balm better or different from competitors in the market?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:52:43.596Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "ours does not leave your lips sticky , provides 24 hrs moisturization",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:12.408Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Those are definitely attractive features. Do you have any certifications for your lip balm that it complies with?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:15.022Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "itc",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:26.688Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Thank you for sharing that. What is your current production capacity for the lip balm, either per month or per year?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:29.563Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "200",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:41.067Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Is that 200 units per month or per year?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:42.003Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "per month",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:52.067Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Thank you for clarifying. What is the minimum order quantity (MOQ) for your lip balm?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:53:53.420Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "2",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:00.798Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "That's quite flexible. Are there any notable projects or brands that you've supplied your lip balm to?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:03.352Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "no",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:09.677Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "No worries. Are you currently looking to enter any new markets or industries with your lip balm?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:11.756Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "no",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:19.275Z"
+      },
+      "role": "user"
+    },
+    {
+      "question": "Would you like to share anything else about the product which would help us find you even better matches?",
+      "answer": "",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:19.404Z"
+      },
+      "role": "assistant"
+    },
+    {
+      "question": "",
+      "answer": "no",
+      "timestamp": {
+        "$date": "2025-06-19T13:54:23.412Z"
+      },
+      "role": "user"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-19T13:50:32.807Z"
+  }
+}]
