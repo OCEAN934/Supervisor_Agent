@@ -1,10 +1,10 @@
 # SUPERVISOR AGENT (PROMPT ENGINEERING)
 
---> This is a meticulously designed agent which specializes in going through companies which are in coordination with the list provided by google API.
---> After that the list serves as a crucial purpose in collaboration with the chat conducted with the user beforehand.
+-> This is a meticulously designed agent which specializes in going through companies which are in coordination with the list provided by google API.
+-> After that the list serves as a crucial purpose in collaboration with the chat conducted with the user beforehand.
 --> Accumulation of both of them serves as a special duo for our agent which further on decides which companies to filter out of the long list based upon the traces given by the stated assistors.
---> The companies are cornered by the agent based upon the given inside information. Then it requires more maneuvering from the data pull tools which delineates crucial insides about the companies or the industries.
---> Finally, the superimposition of all the mentioned chronologies come together to form a list which of companies which are linked with the product, which the user urges to sell.
+-> The companies are cornered by the agent based upon the given inside information. Then it requires more maneuvering from the data pull tools which delineates crucial insides about the companies or the industries.
+-> Finally, the superimposition of all the mentioned chronologies come together to form a list which of companies which are linked with the product, which the user urges to sell.
 
 WORKING:-
 
