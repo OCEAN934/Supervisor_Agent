@@ -1,4 +1,4 @@
-# SUPERVISOR AGENT (PROMPT ENGINEERING)
+# Supervisor Agent (Prompt Engineering)
 
 -> This is a meticulously designed agent which specializes in going through companies which are in coordination with the list provided by google API.
 -> After that the list serves as a crucial purpose in collaboration with the chat conducted with the user beforehand.
