@@ -1,12 +1,34 @@
-# Supervisor Agent (Prompt Engineering)
+# Supervisor Agent (Agentic AI + Multi-Tool Orchestration)
 
--> This is a meticulously designed agent which specializes in going through companies which are in coordination with the list provided by google API.
--> After that the list serves as a crucial purpose in collaboration with the chat conducted with the user beforehand.
---> Accumulation of both of them serves as a special duo for our agent which further on decides which companies to filter out of the long list based upon the traces given by the stated assistors.
--> The companies are cornered by the agent based upon the given inside information. Then it requires more maneuvering from the data pull tools which delineates crucial insides about the companies or the industries.
--> Finally, the superimposition of all the mentioned chronologies come together to form a list which of companies which are linked with the product, which the user urges to sell.
+An agentic AI system that combines prompt-driven tool routing, web data extraction, news retrieval, and LLM-based analysis to identify and prioritize companies relevant to a user's product or market.
 
-## WORKING:-
+## Tech Stack
+- Python
+- Prompt Engineering
+- Selenium
+- Bright Data
+- Google API
+- Hacker News API
+- YouTube Transcript Analysis
+- Llama 3
+
+##Architecture Flow 
+
+User Intent
+→ Company Discovery
+→ Tool Routing
+→ Web/News/Youtube Retrieval
+→ LLM Analysis
+→ Ranked Company Leads
+
+## Capabilities
+- Multi-source company intelligence retrieval
+- Prompt-driven tool selection
+- LLM-assisted company relevance filtering
+- Lead discovery support for market research
+
+
+## Working:-
 
 1) The chat session given to the agent involves assistant and user conversation which works as a pivotal input for our agent.
 
@@ -78,7 +100,7 @@
 
 
 
-##CONCLUSION:-
+##Conclusion:-
 
 The Supervisor Agent is more than just a technical framework—it’s a well-thought-out system designed to connect human intent with actionable business intelligence. At its core, it listens to the user through past conversations, aligns those needs with company data from Google’s API, and then intelligently narrows down the results. This isn’t done in isolation; rather, it’s a step-by-step process where each layer of technology adds more clarity and value.
 
