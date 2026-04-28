@@ -6,9 +6,10 @@
 -> The companies are cornered by the agent based upon the given inside information. Then it requires more maneuvering from the data pull tools which delineates crucial insides about the companies or the industries.
 -> Finally, the superimposition of all the mentioned chronologies come together to form a list which of companies which are linked with the product, which the user urges to sell.
 
-WORKING:-
+## WORKING:-
 
 1) The chat session given to the agent involves assistant and user conversation which works as a pivotal input for our agent.
+
    
    
 
@@ -16,7 +17,9 @@ WORKING:-
 
 
 
+
 2) Along with this, companies are given by Google-API which also provides information and works as a affluent vessel of choices for the agent. For instance:
+
    
    
 
@@ -24,7 +27,9 @@ WORKING:-
 
 
 
+
 3) Then, comes in the web scrapper with the ability to scrape data with selenium and bright data.
+
    
    
 
@@ -32,7 +37,9 @@ WORKING:-
 
 
 
+
 4) The scraped data from the websites might look like this in the backend:
+
    
    
 
@@ -40,7 +47,9 @@ WORKING:-
 
 
 
+
 5) After its indulgence alone the result can be reflected like this:
+
    
    
 
@@ -48,7 +57,9 @@ WORKING:-
 
 
 
+
 6) Then, the "Hacker news" API is created and induced in our current workflow to expland the horizon and provide the published news about the companies with their title, id, author, url, number of commments and time of creation.
+
    
 
 
@@ -56,7 +67,9 @@ WORKING:-
 
 
 
+
 7) At last, a Youtube scrapper API is made which works to analyze and summarize the transcripts and comments by using "LLAMA3" model and then include its existence in the results and a glimpse of final result of companies look like this.
+
    
 
 
@@ -64,7 +77,8 @@ WORKING:-
 
 
 
-CONCLUSION:-
+
+##CONCLUSION:-
 
 The Supervisor Agent is more than just a technical framework—it’s a well-thought-out system designed to connect human intent with actionable business intelligence. At its core, it listens to the user through past conversations, aligns those needs with company data from Google’s API, and then intelligently narrows down the results. This isn’t done in isolation; rather, it’s a step-by-step process where each layer of technology adds more clarity and value.
 
